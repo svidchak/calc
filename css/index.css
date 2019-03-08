@@ -1,0 +1,115 @@
+.calculator img{
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    width: 276px;
+    height: 456px;
+    margin-top: -228px;
+    margin-left: -138px;
+}
+
+button {
+    position: absolute;
+    width: 67px;
+    height: 45px;
+}
+
+button#id0 {
+    margin-top: 493px;
+    margin-left: 608px;
+}
+button#id_pl_mn {
+    margin-top: 493px;
+    margin-left: 540px;
+}
+button#id_kom {
+    margin-top: 493px;
+    margin-left: 676px;
+}
+button#id_dor {
+    margin-top: 493px;
+    margin-left: 744px;
+}
+button#id1 {
+    margin-top: 447px;
+    margin-left: 540px;
+}
+button#id2 {
+    margin-top: 447px;
+    margin-left: 608px;
+}
+button#id3 {
+    margin-top: 447px;
+    margin-left: 676px;
+}
+button#id_pl {
+    margin-top: 447px;
+    margin-left: 744px;
+}
+button#id4 {
+    margin-top: 401px;
+    margin-left: 540px;
+}
+button#id5 {
+    margin-top: 401px;
+    margin-left: 608px;
+}
+button#id6 {
+    margin-top: 401px;
+    margin-left: 676px;
+}
+button#id_mn {
+    margin-top: 401px;
+    margin-left: 744px;
+}
+button#id7 {
+    margin-top: 355px;
+    margin-left: 540px;
+}
+button#id8 {
+    margin-top: 355px;
+    margin-left: 608px;
+}
+button#id9 {
+    margin-top: 355px;
+    margin-left: 676px;
+}
+button#id_pmn {
+    margin-top: 355px;
+    margin-left: 744px;
+}
+button#id_ce {
+    margin-top: 309px;
+    margin-left: 540px;
+}
+button#id_c {
+    margin-top: 309px;
+    margin-left: 608px;
+}
+button#id_del {
+    margin-top: 309px;
+    margin-left: 676px;
+}
+button#id_dv {
+    margin-top: 309px;
+    margin-left: 744px;
+}
+button#id_pr {
+    margin-top: 263px;
+    margin-left: 540px;
+}
+button#id_sqrt {
+    margin-top: 263px;
+    margin-left: 608px;
+}
+button#id_qd {
+    margin-top: 263px;
+    margin-left: 676px;
+}
+button#id_x {
+    margin-top: 263px;
+    margin-left: 744px;
+}
+
+

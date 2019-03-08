@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="css/index.css"/>
+    <script src="js/index.js"></script>
+</head>
+<body>
+    <div class="calculator">
+        <img src="img/calc.png" alt="Calculator"></img>
+
+        <button id="id_pl_mn" onclick="foo0()">±</button>
+        <button id="id0" onclick="foo0()">0</button>
+        <button id="id_kom" onclick="foo0()">,</button>
+        <button id="id_dor" onclick="foo0()">=</button>
+        
+        <button id="id1" onclick="foo1()">1</button>
+        <button id="id2" onclick="foo2()">2</button>
+        <button id="id3" onclick="foo3()">3</button>
+        <button id="id_pl" onclick="foo3()">+</button>
+        
+        <button id="id4" onclick="foo4()">4</button>
+        <button id="id5" onclick="foo5()">5</button>
+        <button id="id6" onclick="foo6()">6</button>
+        <button id="id_mn" onclick="foo3()">-</button>
+        
+        <button id="id7" onclick="foo7()">7</button>
+        <button id="id8" onclick="foo8()">8</button>
+        <button id="id9" onclick="foo9()">9</button>
+        <button id="id_pmn" onclick="foo3()">X</button>
+        
+        <button id="id_ce" onclick="foo7()">CE</button>
+        <button id="id_c" onclick="foo8()">C</button>
+        <button id="id_del" onclick="foo9()">&#x2326;</button>
+        <button id="id_dv" onclick="foo3()">/</button>
+        
+        <button id="id_pr" onclick="foo7()">%</button>
+        <button id="id_sqrt" onclick="foo8()">√</button>
+        <button id="id_qd" onclick="foo9()">X²</button>
+        <button id="id_x" onclick="foo3()">1/X</button>
+    </div>
+    <div id="result">0</div>
+</body>
+</html>
